@@ -1,4 +1,4 @@
-package com.epamwork.mavensadvi;
+package com.mrecw.mavensample;
 
 /**
  * Hello world!
